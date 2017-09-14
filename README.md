@@ -1,1 +1,2 @@
-Plate Track 2017
+# PlateTrack-MobileApp
+this is the android studio,mobile app part of our project
